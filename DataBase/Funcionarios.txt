@@ -1,0 +1,5 @@
+1,Rita,32,20000100000,Sao Jose,1200
+2,Maria,55,30000110000,Palhoca,1220
+3,Caio,45,41000100000,Florianopolis,1100
+4,Carlos,44,51000110000,Florianopolis,1200
+5,Paula,33,61000111000,Florianopolis,2500
